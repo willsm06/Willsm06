@@ -1,6 +1,6 @@
 ### Olá eu sou o William Santos, seja bem vindo(a) ao meu perfil!!
 
-| <a href="https://github.com/wilsm06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wilsm06&show_icons=true&&layout=compact&theme=transparent&hide_border=true" alt="wilsm06's github stats" /></a>| <a href="https://github.com/wilsm06/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsm06&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/wilsm06"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wilsm06&show_icons=true&&layout=compact&theme=transparent&hide_border=true" alt="wilsm06's github stats" /></a>| <a href="https://github.com/wilsm06"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsm06&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
   <div style="display: inline_block">
