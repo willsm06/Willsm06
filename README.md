@@ -1,4 +1,4 @@
-### Olá eu sou o William Santos, seja bem vindo(a) ao meu GitHub!!
+### Olá eu sou o William Santos, seja bem vindo(a) ao meu perfil do GitHub!!
 
 | <a href="https://github.com/Willsm06"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Willsm06&show_icons=true&&layout=compact&theme=transparent&hide_border=true" alt="Willsm06's github stats" /></a>| <a href="https://github.com/Willsm06"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willsm06&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
