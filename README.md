@@ -1,7 +1,17 @@
 ### Olá eu sou o William Santos, seja bem vindo(a) ao meu perfil do GitHub!!
 
-| <a href="https://github.com/Willsm06"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Willsm06&show_icons=true&&layout=compact&theme=transparent&hide_border=true" alt="Willsm06's github stats" /></a>| <a href="https://github.com/Willsm06"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willsm06&layout=compact&theme=transparent&hide_border=true" /></a> |
+<!-- Old version -->
+<!--
+| <a href="https://github.com/Willsm06"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Willsm06&show_icons=true&layout=compact&theme=transparent&hide_border=true" alt="Willsm06's github stats" /></a>| <a href="https://github.com/Willsm06"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willsm06&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
+-->
+
+
+<div>
+  <a href="https://github.com/Willsm06">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Willsm06&show_icons=true&theme=trasparent&include_all_commits=true&count_private=true&hide_border=true&&bg_color=0000&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Willsm06&layout=compact&langs_count=8&theme=trasparent&hide_border=true&text_color=FFFFFF&bg_color=0000&"/>
+<div>
 
   <div style="display: inline_block">
     <h3>Tecnologias Conhecidas</h3>
