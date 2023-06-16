@@ -1,12 +1,5 @@
 ### Olá eu sou o William Santos, seja bem vindo(a) ao meu perfil do GitHub!!
 
-<!-- Old version -->
-<!--
-| <a href="https://github.com/Willsm06"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Willsm06&show_icons=true&layout=compact&theme=transparent&hide_border=true" alt="Willsm06's github stats" /></a>| <a href="https://github.com/Willsm06"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willsm06&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
--->
-
-
 <div>
   <a href="https://github.com/Willsm06">
   <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Willsm06&show_icons=true&theme=trasparent&include_all_commits=true&count_private=true&hide_border=true&&bg_color=0000&text_color=FFFFFF"/>
@@ -24,6 +17,7 @@
     <h3>Tecnologias em Aprendizado</h3>
     <img align="center" alt="PHP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="REACT" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" alt="FLUTTER" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   </div>
 
  
