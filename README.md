@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Willsm06">
-  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Willsm06&show_icons=true&theme=trasparent&include_all_commits=true&count_private=true&hide_border=true&&bg_color=0000&text_color=FFFFFF"/>
-  <img height="145em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Willsm06&layout=compact&langs_count=8&theme=trasparent&hide_border=true&text_color=FFFFFF&bg_color=0000&"/>
+  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Willsm06&show_icons=true&theme=trasparent&include_all_commits=true&count_private=true&hide_border=true&&bg_color=0000&text_color=818181"/>
+  <img height="145em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Willsm06&layout=compact&langs_count=8&theme=trasparent&hide_border=true&text_color=818181&bg_color=0000&"/>
 <div>
 
   <div style="display: inline_block">
