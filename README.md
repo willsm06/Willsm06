@@ -1,4 +1,4 @@
-### 👋 Oi! Eu sou o William
+### 👋 Eu sou o William
 
 Seja bem vindo ao meu github, aqui você irá encontrar projetos públicos que utilizei para construir conhecimento.
 
