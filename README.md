@@ -29,6 +29,6 @@ Seja bem vindo ao meu github, aqui você irá encontrar projetos públicos que u
 <div>
   <a href="https://github.com/Willsm06">
     <img height="180em" align="center" 
-      src="https://github-readme-stats.vercel.app/api?username=Willsm06&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true" /> 
+      src="https://github-readme-stats.vercel.app/api?username=Willsm06&show_icons=true&theme=transparent&count_private=true&hide_border=true" /> 
   </a>
 </div>
