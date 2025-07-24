@@ -6,7 +6,7 @@ Seja bem vindo ao meu github, aqui você irá encontrar projetos públicos que u
 
 ### 💻 Algumas coisas que já fiz:
 
-- 🍔 [**Projeto Hamburgueria**](https://willsm06.github.io/ProjetoHamburgueria/) — site de uma hamburgueria fictícia com foco em visual e layout responsivo.
+- 🍔 [**Projeto Hamburgueria**](https://willsm06.github.io/ProjetoHamburgueria/) — site de uma hamburgueria fictícia com foco em visual
 - 🕒 [**Relógio Analógico**](https://willsm06.github.io/RelogioAnalogico/) — relógio animado feito com HTML, CSS e JS.
 
 ---
