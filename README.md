@@ -1,8 +1,6 @@
 ### 👋 Oi! Eu sou o William
 
-Sou estudante de Engenharia de Controle e Automação na UNESP, com formação técnica em Desenvolvimento de Sistemas pela ETEC. Gosto de criar interfaces, resolver problemas com código e explorar o mundo dos microcontroladores.
-
-Tenho experiência com front-end (HTML, CSS, JS, Flutter) e conheço também back-end com PHP, MySQL e APIs REST. Ultimamente venho me aprofundando em React e Java — e sempre buscando aprender mais.
+Seja bem vindo ao meu github, aqui você ira encontrar projetos publicos que utilizei para consteuir conhecimento.
 
 ---
 
@@ -13,7 +11,7 @@ Tenho experiência com front-end (HTML, CSS, JS, Flutter) e conheço também bac
 
 ---
 
-### 🚀 Tecnologias que uso
+### 🚀 Tecnologias que ja utilizei
 
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -29,10 +27,3 @@ Tenho experiência com front-end (HTML, CSS, JS, Flutter) e conheço também bac
 ### 📊 Um pouco da minha atividade por aqui
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willsm06&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-### 📫 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
