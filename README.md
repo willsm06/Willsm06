@@ -26,8 +26,9 @@ Seja bem vindo ao meu github, aqui você irá encontrar projetos públicos que u
 ---
 
 ### 📊 Um pouco da minha atividade por aqui
-
 <div>
   <a href="https://github.com/Willsm06">
-  <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Willsm06&show_icons=true&theme=trasparent&include_all_commits=true&count_private=true&hide_border=true&&bg_color=0000&text_color=818181"/>
-<div>
+    <img height="180em" align="center" 
+      src="https://github-readme-stats.vercel.app/api?username=Willsm06&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&since=2025-01-01" />
+  </a>
+</div>
